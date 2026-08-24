@@ -55,7 +55,7 @@ Go to GitHub and select **Sign up**.
 
 You can create your account using an email address or continue with an available sign-in option such as Google or Apple.
 
-<p align="center"><img src="./image.png" alt="GitHub Sign Up Page" width="100%"></p>
+<p align="center"><img src="./login.jpeg" alt="GitHub Sign Up Page" width="100%"></p>
 
 ### Step 2: Use a Professional Username
 
