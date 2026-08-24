@@ -15,7 +15,8 @@ GitHub is especially useful for students and developers because it allows you to
 - Build a professional developer portfolio.
 - Work with Git and GitHub-based development workflows.
 
-<p align="center"><img src="./image1.jpg" alt="GitHub Homepage" width="100%"></p>
+<p align="center"><img src="./<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/ab2a1f1b-37c2-43b8-b7e5-e1320a2937cb" />
+" alt="GitHub Homepage" width="100%"></p>
 
 ---
 
@@ -54,7 +55,7 @@ Go to GitHub and select **Sign up**.
 
 You can create your account using an email address or continue with an available sign-in option such as Google or Apple.
 
-<p align="center"><img src="./image2.png" alt="GitHub Sign Up Page" width="100%"></p>
+<p align="center"><img src="./image.png" alt="GitHub Sign Up Page" width="100%"></p>
 
 ### Step 2: Use a Professional Username
 
