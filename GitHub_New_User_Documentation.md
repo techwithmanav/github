@@ -15,9 +15,7 @@ GitHub is especially useful for students and developers because it allows you to
 - Build a professional developer portfolio.
 - Work with Git and GitHub-based development workflows.
 
-<p align="center"><img src="./<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/ab2a1f1b-37c2-43b8-b7e5-e1320a2937cb" />
-" alt="GitHub Homepage" width="100%"></p>
-
+<p align="center"><img src="./homepage.jpeg" alt="GitHub Sign Up Page" width="100%"></p>
 ---
 
 # GitHub and Git
